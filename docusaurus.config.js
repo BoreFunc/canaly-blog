@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'BoreFunc Canaly',
   tagline: 'For people, for freedom.',
-  favicon: 'img/favicon.ico',
+  favicon: 'favicon.ico',
 
   // Set the production url of your site here
   url: 'https://borefunc.github.io/',
@@ -55,7 +55,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/canaly-social-card.jpg',
+      image: 'img/social_card@3x.png',
       navbar: {
         title: 'BoreFunc Canaly',
         logo: {
@@ -69,15 +69,27 @@ const config = {
             position: 'left',
             label: 'Tutorial',
           },
+          {
+            type: 'docSidebar',
+            sidebarId: 'documentSidebar',
+            position: 'left',
+            label: 'Documentations',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'analysisSidebar',
+            position: 'left',
+            label: 'Analysis',
+          },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/BoreFunc/canaly-blog',
-            label: 'GitHub',
+            label: 'blog repo',
             position: 'right',
           },
           {
             href: 'https://github.com/BoreFunc/cap-rs',
-            label: 'img/cap-rs.svg',
+            label: 'cap-rs repo',
             position: 'right',
           }
         ],

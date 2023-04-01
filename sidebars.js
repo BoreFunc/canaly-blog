@@ -23,17 +23,14 @@ const sidebars = {
       type: 'category',
       label: 'Tutorial',
       items: ['tutorial/welcome'],
-    },
-    {
-      type: 'category',
-      label: 'Documentation',
-      items: ['document/overview'],
-    },
-    {
-      type: 'category',
-      label: 'Analysis',
-      items: ['analysis/overview'],
     }
+  ],
+  documentSidebar: [
+    'document/overview',
+  ],
+  analysisSidebar: [
+    'analysis/overview',
+    'analysis/versions',
   ],
 };
 

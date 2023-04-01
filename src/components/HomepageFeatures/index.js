@@ -5,31 +5,31 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/cap-rs.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        From the first time you use CAP-rs, you'll feel right at home. It's easy to use and easy to get started.
+        Want to use it in your favorite language? No problem, we got bindings for multiple languages!
       </>
     ),
   },
   {
     title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('@site/static/img/wasm-lib.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        We got you covered with a fully functional library can be used to parse CAJ files everywhere.
+        CAP-rs can be compiled to dynamic library, static library, you can even use it in your browser with WebAssembly!
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Full Control',
+    Svg: require('@site/static/img/Module.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Our library follows the philosophy of minimalism, which means it's highly modular and customizable.
+        Some features are not used in your project? No problem, just disable them with the feature flags.
       </>
     ),
   },

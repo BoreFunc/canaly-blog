@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbf_canaly_blog=self.webpackChunkbf_canaly_blog||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/canaly/blog/welcome"}]}')}}]);

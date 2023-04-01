@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>BoreFunc Canaly Blog</title>
+        <link>https://borefunc.github.io/canaly/blog</link>
+        <description>BoreFunc Canaly Blog</description>
+        <lastBuildDate>Wed, 01 Mar 2023 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[Welcome]]></title>
+            <link>https://borefunc.github.io/canaly/blog/welcome</link>
+            <guid>https://borefunc.github.io/canaly/blog/welcome</guid>
+            <pubDate>Wed, 01 Mar 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[This is the first post of our blog. We will share our latest news and updates here.]]></description>
+            <content:encoded><![CDATA[<p>This is the first post of our blog. We will share our latest news and updates here.
+We'll also share some tips and tricks about how to use <code>cap-rs</code>.</p><p>Stay tuned!</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="what-is-canaly">What is Canaly?<a href="#what-is-canaly" class="hash-link" aria-label="Direct link to What is Canaly?" title="Direct link to What is Canaly?">​</a></h2><p>Canaly is a project for analyzing CAJ files with open source tools. Our goal is to provide a set of open source tools for analyzing CAJ files, and to provide basic infomation for the community to develop tools for CAJ files.</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="what-is-caj">What is CAJ?<a href="#what-is-caj" class="hash-link" aria-label="Direct link to What is CAJ?" title="Direct link to What is CAJ?">​</a></h2><p>CAJ is a file format used by Chinese Academy of Sciences (CAS) for storing scientific articles. It is a proprietary format, to read CAJ files, you need to install either proprietary software or commercial software.</p>]]></content:encoded>
+            <category>hello</category>
+            <category>canaly</category>
+        </item>
+    </channel>
+</rss>

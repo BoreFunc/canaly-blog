@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>BoreFunc Canaly Blog</title>
-        <link>https://borefunc.github.io/canaly/blog</link>
+        <link>https://borefunc.github.io/canaly-blog/blog</link>
         <description>BoreFunc Canaly Blog</description>
         <lastBuildDate>Wed, 01 Mar 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,8 +10,8 @@
         <language>en</language>
         <item>
             <title><![CDATA[Welcome]]></title>
-            <link>https://borefunc.github.io/canaly/blog/welcome</link>
-            <guid>https://borefunc.github.io/canaly/blog/welcome</guid>
+            <link>https://borefunc.github.io/canaly-blog/blog/welcome</link>
+            <guid>https://borefunc.github.io/canaly-blog/blog/welcome</guid>
             <pubDate>Wed, 01 Mar 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[This is the first post of our blog. We will share our latest news and updates here.]]></description>
             <content:encoded><![CDATA[<p>This is the first post of our blog. We will share our latest news and updates here.

@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://borefunc.github.io/canaly/blog</id>
+    <id>https://borefunc.github.io/canaly-blog/blog</id>
     <title>BoreFunc Canaly Blog</title>
     <updated>2023-03-01T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://borefunc.github.io/canaly/blog"/>
+    <link rel="alternate" href="https://borefunc.github.io/canaly-blog/blog"/>
     <subtitle>BoreFunc Canaly Blog</subtitle>
-    <icon>https://borefunc.github.io/canaly/favicon.ico</icon>
+    <icon>https://borefunc.github.io/canaly-blog/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
-        <id>https://borefunc.github.io/canaly/blog/welcome</id>
-        <link href="https://borefunc.github.io/canaly/blog/welcome"/>
+        <id>https://borefunc.github.io/canaly-blog/blog/welcome</id>
+        <link href="https://borefunc.github.io/canaly-blog/blog/welcome"/>
         <updated>2023-03-01T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[This is the first post of our blog. We will share our latest news and updates here.]]></summary>
         <content type="html"><![CDATA[<p>This is the first post of our blog. We will share our latest news and updates here.

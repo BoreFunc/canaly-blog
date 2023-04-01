@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkbf_canaly_blog=self.webpackChunkbf_canaly_blog||[]).push([[135],{9663:l=>{l.exports=JSON.parse('{"label":"hello","permalink":"/canaly/blog/tags/hello","allTagsPath":"/canaly/blog/tags","count":1}')}}]);
